@@ -45,7 +45,7 @@ Relembrando que vocês devem realizar um commit com uma mensagem descritiva para
 
 **Q4)** Quais são as mensagens dos commits feitos por Michael Wu? (" Ensure MLP layers on word embeddings are not frozen (#76)", "add roc_auc metric (#85)", "Update vocab handling (#133)")
 
-**Q5)** Quando foi o commit feito por Ted Li e qual arquivo foi modificado? 
+**Q5)** Quando foi o commit feito por Ted Li e qual arquivo foi modificado? ("Sat Dec 15 18:18:45 2018 -0800", " DatasetFieldName.PRETRAINED_MODEL_EMBEDDING: PretrainedModelEmbeddingField()")
 
 **A5)** Todas as suas respostas até agora foram feitas na branch master. Crie uma branch nova, chamada "prova" e mude para ela.
 
