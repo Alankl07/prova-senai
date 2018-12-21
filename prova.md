@@ -49,11 +49,11 @@ Relembrando que vocês devem realizar um commit com uma mensagem descritiva para
 
 **A5)** Todas as suas respostas até agora foram feitas na branch master. Crie uma branch nova, chamada "prova" e mude para ela.
 
-**Q6)** Escreva o nome dos participantes do seu grupo: 
+**Q6)** Escreva o nome dos participantes do seu grupo: ("Alan Nunes, Jeferson Vitena, Isaac Barros")
 
 **A6)** Retorne para a branch master.
 
-**Q6)** Escreva o nome do professor da disciplina: 
+**Q6)** Escreva o nome do professor da disciplina: ("Felipe Barros")
 
 **A7)** Junte as modificações feitas na branch master e na branch prova.
 
